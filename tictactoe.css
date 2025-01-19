@@ -1,0 +1,27 @@
+*{
+    background-color: blue;
+}
+.body{
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    
+}
+.col{
+    height: 200px;
+    width: 200px;
+    background-color: pink;
+    border: 1px solid black;
+    font-weight: bolder;;
+    font-size: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+.row{
+    display: flex;
+    justify-content: center;
+}
